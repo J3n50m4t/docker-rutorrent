@@ -1,3 +1,11 @@
+This Build is based on [LinuxServers rutorrent](https://github.com/linuxserver/docker-rutorrent)
+Differences between the two can be found here: [Differences](https://github.com/linuxserver/docker-rutorrent/compare/master...J3n50m4t:master)
+
+Basicly No upload limitation anymore, dht disabled and "fixed" a bug with throttle min peers. 
+ LinuxServers readme below
+-------------------------------
+
+
 [![linuxserver.io](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/linuxserver_medium.png)](https://linuxserver.io)
 
 [![Blog](https://img.shields.io/static/v1.svg?style=flat-square&color=E68523&label=linuxserver.io&message=Blog)](https://blog.linuxserver.io "all the things you can do with our containers including How-To guides, opinions and much more!")
